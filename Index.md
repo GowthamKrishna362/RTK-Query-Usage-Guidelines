@@ -22,11 +22,13 @@ API References
 
 -----------------
 [Mutations](Mutations.md)
+
 [Mutation Usage](Mutation%20Usage.md)
 
 --------------------------------
 **Customizing Queries**
 [Transforming Data](Transforming%20Data.md)
+
 [queryFn](queryFn.md)
 
 API references: 
@@ -36,13 +38,17 @@ API references:
 **Lifecycle and Side Effects**
 
 [OnQueryStarted](OnQueryStarted.md)
+
 [Automated Refetching and Tags](Automated%20Refetching%20and%20Tags.md)
+
 [Handling Side Effects](Handling%20Side%20Effects.md)
+
 API References:
 - [APIRef- onQueryStarted](APIRef-%20onQueryStarted.md)
 
 ------------ -----
 [Usage without hooks](Usage%20without%20hooks.md)
+
 API References: 
 - [APIRef- endpoints](APIRef-%20endpoints.md)
 -----------
