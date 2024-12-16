@@ -54,7 +54,7 @@ API References:
 -----------
 
 Redux Slices 
-
+https://redux-toolkit.js.org/api/createSlice
 
 --------------------
 **API Util**
