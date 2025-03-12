@@ -1,7 +1,7 @@
 **Reference** https://redux-toolkit.js.org/rtk-query/usage/cache-behavior
 **Queries**
 - Cache keys are a combination of endpoint + argument (optional)
-- If argument is an object, it will deepcompare and check if they are equal - refer example below, First timeout will not cause a refetch , second timeout will, even though object references for payload changes
+- If argument is an object, it will deepcompare and check if they are equal - refer example below, First timeout will cause a refetch , second timeout will not, even though object references for payload changes
 
 ```
 const [payload, setPayload] = useState({ reportId: 1004 });
